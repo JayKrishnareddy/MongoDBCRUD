@@ -18,3 +18,23 @@ C:\Users\Asheesh Ahmed\source\repos\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp
 C:\Users\Asheesh Ahmed\source\repos\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp3.1\MongoDBDemo.dll
 C:\Users\Asheesh Ahmed\source\repos\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp3.1\MongoDBDemo.pdb
 C:\Users\Asheesh Ahmed\source\repos\MongoDBDemo\MongoDBDemo\obj\Debug\netcoreapp3.1\MongoDBDemo.genruntimeconfig.cache
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDBDemo.exe
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDBDemo.deps.json
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDBDemo.runtimeconfig.json
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDBDemo.runtimeconfig.dev.json
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDBDemo.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDBDemo.pdb
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.csprojAssemblyReference.cache
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.AssemblyInfoInputs.cache
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.AssemblyInfo.cs
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.csproj.CoreCompileInputs.cache
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.csproj.CopyComplete
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.dll
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.pdb
+C:\Users\Asheesh Ahmed\OneDrive\Desktop\New folder\obj\Debug\netcoreapp3.1\MongoDBDemo.genruntimeconfig.cache
